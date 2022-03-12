@@ -8,6 +8,7 @@ import './styles.css';
 type Props = {
     movieId : string;
 }
+
 function FormCard( { movieId } : Props ) {
 
     const [movie, setMovie] = useState<Movie>();
