@@ -7,7 +7,7 @@ Projeto realizado durante o evento "Semana Spring React" oferecido pelo canal De
 </div>
 
 
-#### Tecnologias utilizadas:
+### Tecnologias utilizadas:
 <div >
      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
