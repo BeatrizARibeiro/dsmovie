@@ -6,6 +6,12 @@ Projeto realizado durante o evento "Semana Spring React" oferecido pelo canal De
      <img src="img/ProjDSMovie.png">
 </div>
 
+##
+
+### Certificado:
+<div align="center">
+     <img height="450" src="img/certificado.png">
+</div>
 
 ### Tecnologias utilizadas:
 <div >
